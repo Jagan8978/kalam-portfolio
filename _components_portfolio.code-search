@@ -1,0 +1,18 @@
+# Query: @/components/portfolio
+# ContextLines: 1
+
+10 results - 1 file
+
+src\portfolio\Pages\Home.js:
+   1  import React from 'react';
+   2: import Navbar from '../components/portfolio/Navbar';
+   3: import HeroSection from '../components/portfolio/HeroSection';
+   4: import AboutSection from '../components/portfolio/AboutSection';
+   5: import SkillsSection from '../components/portfolio/SkillsSection';
+   6: import ExperienceSection from '../components/portfolio/ExperienceSection';
+   7: import ProjectsSection from '../components/portfolio/ProjectsSection';
+   8: import EducationSection from '../components/portfolio/EducationSection';
+   9: import CertificationsSection from '../components/portfolio/CertificationsSection';
+  10: import ContactSection from '../components/portfolio/ContactSection';
+  11: import Footer from '../components/portfolio/Footer';
+  12  
