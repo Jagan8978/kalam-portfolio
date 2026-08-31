@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kalam-portfolio/static/css/main.32873ef1.css",
-    "main.js": "/kalam-portfolio/static/js/main.04cea677.js",
+    "main.css": "/kalam-portfolio/static/css/main.4060c4b4.css",
+    "main.js": "/kalam-portfolio/static/js/main.e9345747.js",
     "index.html": "/kalam-portfolio/index.html",
-    "main.32873ef1.css.map": "/kalam-portfolio/static/css/main.32873ef1.css.map",
-    "main.04cea677.js.map": "/kalam-portfolio/static/js/main.04cea677.js.map"
+    "main.4060c4b4.css.map": "/kalam-portfolio/static/css/main.4060c4b4.css.map",
+    "main.e9345747.js.map": "/kalam-portfolio/static/js/main.e9345747.js.map"
   },
   "entrypoints": [
-    "static/css/main.32873ef1.css",
-    "static/js/main.04cea677.js"
+    "static/css/main.4060c4b4.css",
+    "static/js/main.e9345747.js"
   ]
 }
